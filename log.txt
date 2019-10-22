@@ -1,0 +1,2113 @@
+Simulator started.
+
+customer 1 arrived at 0
+customer 1 joined Q 0 at 0
+customer 1 joined service 0 at 0
+customer 2 arrived at 0.591685
+customer 2 joined Q 1 at 0.591685
+customer 2 joined service 1 at 0.591685
+customer 3 arrived at 0.831318
+customer 3 joined Q 2 at 0.831318
+customer 3 joined service 2 at 0.831318
+customer 2 left queue 1 at 1.67003
+customer 4 arrived at 1.96825
+customer 4 joined Q 1 at 1.96825
+customer 4 joined service 1 at 1.96825
+customer 5 arrived at 2.35408
+customer 5 joined Q 3 at 2.35408
+customer 5 joined service 3 at 2.35408
+customer 1 left queue 0 at 2.66258
+customer 6 arrived at 2.76024
+customer 6 joined Q 0 at 2.76024
+customer 6 joined service 0 at 2.76024
+customer 4 left queue 1 at 3.70448
+customer 5 left queue 3 at 4.1818
+customer 7 arrived at 5.8456
+customer 7 joined Q 1 at 5.8456
+customer 7 joined service 1 at 5.8456
+customer 3 left queue 2 at 5.9475
+customer 8 arrived at 8.37453
+customer 8 joined Q 2 at 8.37453
+customer 8 joined service 2 at 8.37453
+customer 9 arrived at 8.38653
+customer 9 joined Q 3 at 8.38653
+customer 9 joined service 3 at 8.38653
+customer 8 left queue 2 at 8.42855
+customer 10 arrived at 13.1283
+customer 10 joined Q 2 at 13.1283
+customer 10 joined service 2 at 13.1283
+customer 11 arrived at 13.1536
+customer 11 joined Q 4 at 13.1536
+customer 11 joined service 4 at 13.1536
+customer 10 left queue 2 at 13.2421
+customer 12 arrived at 13.337
+customer 12 joined Q 2 at 13.337
+customer 12 joined service 2 at 13.337
+customer 13 arrived at 13.352
+customer 13 joined Q 0 at 13.352
+customer 12 left queue 2 at 13.4045
+customer 13 joined Q 2 at 13.4045
+customer 13 joined service 2 at 13.4045
+customer 14 arrived at 13.7479
+customer 14 joined Q 0 at 13.7479
+customer 11 left queue 4 at 13.9789
+customer 14 joined Q 4 at 13.9789
+customer 14 joined service 4 at 13.9789
+customer 15 arrived at 14.667
+customer 15 joined Q 0 at 14.667
+customer 16 arrived at 14.9984
+customer 16 joined Q 1 at 14.9984
+customer 13 left queue 2 at 15.186
+customer 16 joined Q 2 at 15.186
+customer 16 joined service 2 at 15.186
+customer 17 arrived at 15.9654
+customer 17 joined Q 1 at 15.9654
+customer 6 left queue 0 at 16.6444
+customer 15 joined service 0 at 16.6444
+customer 16 left queue 2 at 16.6773
+customer 17 joined Q 2 at 16.6773
+customer 17 joined service 2 at 16.6773
+customer 18 arrived at 16.836
+customer 18 joined Q 0 at 16.836
+customer 7 left queue 1 at 17.2258
+customer 18 joined Q 1 at 17.2258
+customer 18 joined service 1 at 17.2258
+customer 14 left queue 4 at 18.1148
+customer 19 arrived at 20.5447
+customer 19 joined Q 4 at 20.5447
+customer 19 joined service 4 at 20.5447
+customer 17 left queue 2 at 20.5947
+customer 20 arrived at 20.725
+customer 20 joined Q 2 at 20.725
+customer 20 joined service 2 at 20.725
+customer 15 left queue 0 at 20.9962
+customer 19 left queue 4 at 21.3563
+customer 21 arrived at 22.7352
+customer 21 joined Q 0 at 22.7352
+customer 21 joined service 0 at 22.7352
+customer 22 arrived at 23.1968
+customer 22 joined Q 4 at 23.1968
+customer 22 joined service 4 at 23.1968
+customer 23 arrived at 24.0117
+customer 23 joined Q 0 at 24.0117
+customer 21 left queue 0 at 24.8123
+customer 23 joined service 0 at 24.8123
+customer 24 arrived at 24.8143
+customer 24 joined Q 0 at 24.8143
+customer 25 arrived at 25.0959
+customer 25 joined Q 1 at 25.0959
+customer 26 arrived at 26.5827
+customer 26 joined Q 2 at 26.5827
+customer 22 left queue 4 at 26.864
+customer 26 joined Q 4 at 26.864
+customer 26 joined service 4 at 26.864
+customer 27 arrived at 27.0457
+customer 27 joined Q 2 at 27.0457
+customer 28 arrived at 27.734
+customer 28 joined Q 3 at 27.734
+customer 29 arrived at 27.9571
+customer 29 joined Q 4 at 27.9571
+customer 26 left queue 4 at 28.1311
+customer 29 joined service 4 at 28.1311
+customer 23 left queue 0 at 28.4237
+customer 24 joined service 0 at 28.4237
+customer 9 left queue 3 at 29.7244
+customer 28 joined service 3 at 29.7244
+customer 20 left queue 2 at 29.7709
+customer 27 joined service 2 at 29.7709
+customer 24 left queue 0 at 30.5071
+customer 25 joined Q 0 at 30.5071
+customer 25 joined service 0 at 30.5071
+customer 27 left queue 2 at 30.7746
+customer 30 arrived at 30.9255
+customer 30 joined Q 2 at 30.9255
+customer 30 joined service 2 at 30.9255
+customer 31 arrived at 30.9948
+customer 31 joined Q 0 at 30.9948
+customer 32 arrived at 31.1318
+customer 32 joined Q 1 at 31.1318
+customer 30 left queue 2 at 31.2371
+customer 32 joined Q 2 at 31.2371
+customer 32 joined service 2 at 31.2371
+customer 32 left queue 2 at 31.8539
+customer 31 joined Q 2 at 31.8539
+customer 31 joined service 2 at 31.8539
+customer 28 left queue 3 at 32.822
+customer 18 left queue 1 at 33.9149
+customer 33 arrived at 34.1714
+customer 33 joined Q 1 at 34.1714
+customer 33 joined service 1 at 34.1714
+customer 29 left queue 4 at 34.8218
+customer 34 arrived at 35.919
+customer 34 joined Q 3 at 35.919
+customer 34 joined service 3 at 35.919
+customer 35 arrived at 36.8628
+customer 35 joined Q 4 at 36.8628
+customer 35 joined service 4 at 36.8628
+customer 36 arrived at 38.2148
+customer 36 joined Q 0 at 38.2148
+customer 37 arrived at 38.9503
+customer 37 joined Q 1 at 38.9503
+customer 34 left queue 3 at 40.1659
+customer 37 joined Q 3 at 40.1659
+customer 37 joined service 3 at 40.1659
+customer 38 arrived at 40.7917
+customer 38 joined Q 1 at 40.7917
+customer 39 arrived at 41.2499
+customer 39 joined Q 2 at 41.2499
+customer 33 left queue 1 at 42.0356
+customer 38 joined service 1 at 42.0356
+customer 40 arrived at 42.2156
+customer 40 joined Q 1 at 42.2156
+customer 41 arrived at 42.7392
+customer 41 joined Q 3 at 42.7392
+customer 35 left queue 4 at 42.947
+customer 41 joined Q 4 at 42.947
+customer 41 joined service 4 at 42.947
+customer 37 left queue 3 at 43.4755
+customer 39 joined Q 3 at 43.4755
+customer 39 joined service 3 at 43.4755
+customer 42 arrived at 43.7548
+customer 42 joined Q 2 at 43.7548
+customer 25 left queue 0 at 43.8652
+customer 36 joined service 0 at 43.8652
+customer 43 arrived at 44.5119
+customer 43 joined Q 0 at 44.5119
+customer 41 left queue 4 at 45.0089
+customer 42 joined Q 4 at 45.0089
+customer 42 joined service 4 at 45.0089
+customer 44 arrived at 45.1542
+customer 44 joined Q 2 at 45.1542
+customer 31 left queue 2 at 45.532
+customer 44 joined service 2 at 45.532
+customer 36 left queue 0 at 46.2215
+customer 43 joined service 0 at 46.2215
+customer 45 arrived at 46.6267
+customer 45 joined Q 0 at 46.6267
+customer 46 arrived at 47.0117
+customer 46 joined Q 2 at 47.0117
+customer 47 arrived at 47.4427
+customer 47 joined Q 3 at 47.4427
+customer 48 arrived at 47.7508
+customer 48 joined Q 4 at 47.7508
+customer 39 left queue 3 at 47.8214
+customer 47 joined service 3 at 47.8214
+customer 44 left queue 2 at 48.9393
+customer 46 joined service 2 at 48.9393
+customer 43 left queue 0 at 49.1117
+customer 45 joined service 0 at 49.1117
+customer 42 left queue 4 at 49.5788
+customer 48 joined service 4 at 49.5788
+customer 49 arrived at 49.6576
+customer 49 joined Q 0 at 49.6576
+customer 38 left queue 1 at 50.3219
+customer 40 joined service 1 at 50.3219
+customer 46 left queue 2 at 50.6716
+customer 49 joined Q 2 at 50.6716
+customer 49 joined service 2 at 50.6716
+customer 48 left queue 4 at 50.965
+customer 45 left queue 0 at 51.0515
+customer 50 arrived at 51.6133
+customer 50 joined Q 0 at 51.6133
+customer 50 joined service 0 at 51.6133
+customer 51 arrived at 51.783
+customer 51 joined Q 4 at 51.783
+customer 51 joined service 4 at 51.783
+customer 52 arrived at 52.1328
+customer 52 joined Q 0 at 52.1328
+customer 50 left queue 0 at 52.3773
+customer 52 joined service 0 at 52.3773
+customer 51 left queue 4 at 53.3568
+customer 53 arrived at 53.8189
+customer 53 joined Q 4 at 53.8189
+customer 53 joined service 4 at 53.8189
+customer 47 left queue 3 at 54.4476
+customer 54 arrived at 54.6236
+customer 54 joined Q 3 at 54.6236
+customer 54 joined service 3 at 54.6236
+customer 55 arrived at 55.9326
+customer 55 joined Q 0 at 55.9326
+customer 56 arrived at 56.996
+customer 56 joined Q 1 at 56.996
+customer 57 arrived at 57.2596
+customer 57 joined Q 2 at 57.2596
+customer 53 left queue 4 at 57.4401
+customer 57 joined Q 4 at 57.4401
+customer 57 joined service 4 at 57.4401
+customer 58 arrived at 57.9515
+customer 58 joined Q 2 at 57.9515
+customer 40 left queue 1 at 58.9025
+customer 56 joined service 1 at 58.9025
+customer 49 left queue 2 at 59.4723
+customer 58 joined service 2 at 59.4723
+customer 52 left queue 0 at 59.9647
+customer 55 joined service 0 at 59.9647
+customer 56 left queue 1 at 60.0886
+customer 54 left queue 3 at 60.5139
+customer 59 arrived at 60.7925
+customer 59 joined Q 1 at 60.7925
+customer 59 joined service 1 at 60.7925
+customer 60 arrived at 60.8572
+customer 60 joined Q 3 at 60.8572
+customer 60 joined service 3 at 60.8572
+customer 59 left queue 1 at 61.0837
+customer 61 arrived at 61.6145
+customer 61 joined Q 1 at 61.6145
+customer 61 joined service 1 at 61.6145
+customer 57 left queue 4 at 62.2256
+customer 58 left queue 2 at 62.5861
+customer 62 arrived at 63.8467
+customer 62 joined Q 2 at 63.8467
+customer 62 joined service 2 at 63.8467
+customer 60 left queue 3 at 64.2649
+customer 63 arrived at 66.3087
+customer 63 joined Q 3 at 66.3087
+customer 63 joined service 3 at 66.3087
+customer 64 arrived at 67.1251
+customer 64 joined Q 4 at 67.1251
+customer 64 joined service 4 at 67.1251
+customer 65 arrived at 67.128
+customer 65 joined Q 0 at 67.128
+customer 64 left queue 4 at 67.1384
+customer 65 joined Q 4 at 67.1384
+customer 65 joined service 4 at 67.1384
+customer 66 arrived at 68.2192
+customer 66 joined Q 0 at 68.2192
+customer 63 left queue 3 at 69.9823
+customer 66 joined Q 3 at 69.9823
+customer 66 joined service 3 at 69.9823
+customer 67 arrived at 71.289
+customer 67 joined Q 0 at 71.289
+customer 61 left queue 1 at 71.6593
+customer 67 joined Q 1 at 71.6593
+customer 67 joined service 1 at 71.6593
+customer 68 arrived at 71.962
+customer 68 joined Q 0 at 71.962
+customer 65 left queue 4 at 72.0486
+customer 68 joined Q 4 at 72.0486
+customer 68 joined service 4 at 72.0486
+customer 55 left queue 0 at 72.7491
+customer 69 arrived at 73.056
+customer 69 joined Q 0 at 73.056
+customer 69 joined service 0 at 73.056
+customer 67 left queue 1 at 74.688
+customer 62 left queue 2 at 74.9258
+customer 70 arrived at 75.7474
+customer 70 joined Q 1 at 75.7474
+customer 70 joined service 1 at 75.7474
+customer 68 left queue 4 at 76.9715
+customer 71 arrived at 76.9786
+customer 71 joined Q 2 at 76.9786
+customer 71 joined service 2 at 76.9786
+customer 72 arrived at 77.0952
+customer 72 joined Q 4 at 77.0952
+customer 72 joined service 4 at 77.0952
+customer 71 left queue 2 at 77.5032
+customer 73 arrived at 80.4434
+customer 73 joined Q 2 at 80.4434
+customer 73 joined service 2 at 80.4434
+customer 74 arrived at 81.0371
+customer 74 joined Q 0 at 81.0371
+customer 75 arrived at 81.1991
+customer 75 joined Q 1 at 81.1991
+customer 70 left queue 1 at 81.2878
+customer 75 joined service 1 at 81.2878
+customer 75 left queue 1 at 82.0168
+customer 74 joined Q 1 at 82.0168
+customer 74 joined service 1 at 82.0168
+customer 76 arrived at 82.858
+customer 76 joined Q 0 at 82.858
+customer 73 left queue 2 at 83.115
+customer 76 joined Q 2 at 83.115
+customer 76 joined service 2 at 83.115
+customer 77 arrived at 83.5715
+customer 77 joined Q 0 at 83.5715
+customer 78 arrived at 83.6627
+customer 78 joined Q 1 at 83.6627
+customer 66 left queue 3 at 83.7965
+customer 78 joined Q 3 at 83.7965
+customer 78 joined service 3 at 83.7965
+customer 78 left queue 3 at 84.2071
+customer 77 joined Q 3 at 84.2071
+customer 77 joined service 3 at 84.2071
+customer 79 arrived at 84.6544
+customer 79 joined Q 0 at 84.6544
+customer 80 arrived at 85.1475
+customer 80 joined Q 1 at 85.1475
+customer 69 left queue 0 at 85.1673
+customer 79 joined service 0 at 85.1673
+customer 81 arrived at 85.4554
+customer 81 joined Q 0 at 85.4554
+customer 76 left queue 2 at 86.3257
+customer 80 joined Q 2 at 86.3257
+customer 80 joined service 2 at 86.3257
+customer 79 left queue 0 at 87.386
+customer 81 joined service 0 at 87.386
+customer 80 left queue 2 at 87.7112
+customer 82 arrived at 88.1593
+customer 82 joined Q 2 at 88.1593
+customer 82 joined service 2 at 88.1593
+customer 77 left queue 3 at 88.6699
+customer 83 arrived at 88.7097
+customer 83 joined Q 3 at 88.7097
+customer 83 joined service 3 at 88.7097
+customer 84 arrived at 88.7586
+customer 84 joined Q 0 at 88.7586
+customer 83 left queue 3 at 88.93
+customer 84 joined Q 3 at 88.93
+customer 84 joined service 3 at 88.93
+customer 74 left queue 1 at 89.4816
+customer 85 arrived at 90.2614
+customer 85 joined Q 1 at 90.2614
+customer 85 joined service 1 at 90.2614
+customer 82 left queue 2 at 90.6359
+customer 86 arrived at 90.7642
+customer 86 joined Q 2 at 90.7642
+customer 86 joined service 2 at 90.7642
+customer 87 arrived at 90.8432
+customer 87 joined Q 0 at 90.8432
+customer 86 left queue 2 at 91.1194
+customer 87 joined Q 2 at 91.1194
+customer 87 joined service 2 at 91.1194
+customer 88 arrived at 91.9164
+customer 88 joined Q 0 at 91.9164
+customer 89 arrived at 92.0638
+customer 89 joined Q 1 at 92.0638
+customer 72 left queue 4 at 92.1623
+customer 89 joined Q 4 at 92.1623
+customer 89 joined service 4 at 92.1623
+customer 85 left queue 1 at 92.5243
+customer 88 joined Q 1 at 92.5243
+customer 88 joined service 1 at 92.5243
+customer 89 left queue 4 at 92.8259
+customer 90 arrived at 93.7228
+customer 90 joined Q 4 at 93.7228
+customer 90 joined service 4 at 93.7228
+customer 91 arrived at 94.2646
+customer 91 joined Q 0 at 94.2646
+customer 84 left queue 3 at 95.6923
+customer 91 joined Q 3 at 95.6923
+customer 91 joined service 3 at 95.6923
+customer 87 left queue 2 at 95.9487
+customer 90 left queue 4 at 96.1611
+customer 92 arrived at 96.1944
+customer 92 joined Q 2 at 96.1944
+customer 92 joined service 2 at 96.1944
+customer 93 arrived at 96.7265
+customer 93 joined Q 4 at 96.7265
+customer 93 joined service 4 at 96.7265
+customer 94 arrived at 97.3491
+customer 94 joined Q 0 at 97.3491
+customer 95 arrived at 97.5937
+customer 95 joined Q 1 at 97.5937
+customer 96 arrived at 97.785
+customer 96 joined Q 2 at 97.785
+customer 97 arrived at 98.2573
+customer 97 joined Q 3 at 98.2573
+customer 98 arrived at 98.5321
+customer 98 joined Q 4 at 98.5321
+customer 92 left queue 2 at 98.5889
+customer 96 joined service 2 at 98.5889
+customer 99 arrived at 98.8431
+customer 99 joined Q 2 at 98.8431
+customer 93 left queue 4 at 99.5281
+customer 98 joined service 4 at 99.5281
+customer 81 left queue 0 at 99.5537
+customer 94 joined service 0 at 99.5537
+customer 96 left queue 2 at 99.6896
+customer 99 joined service 2 at 99.6896
+customer 88 left queue 1 at 99.9895
+customer 95 joined service 1 at 99.9895
+customer 98 left queue 4 at 100.389
+customer 97 joined Q 4 at 100.389
+customer 97 joined service 4 at 100.389
+customer 99 left queue 2 at 100.926
+customer 95 left queue 1 at 101.389
+customer 94 left queue 0 at 101.679
+customer 100 arrived at 104.316
+customer 100 joined Q 0 at 104.316
+customer 100 joined service 0 at 104.316
+customer 91 left queue 3 at 104.376
+customer 101 arrived at 104.847
+customer 101 joined Q 1 at 104.847
+customer 101 joined service 1 at 104.847
+customer 102 arrived at 105.093
+customer 102 joined Q 2 at 105.093
+customer 102 joined service 2 at 105.093
+customer 101 left queue 1 at 105.952
+customer 100 left queue 0 at 106.708
+customer 103 arrived at 107.142
+customer 103 joined Q 0 at 107.142
+customer 103 joined service 0 at 107.142
+customer 104 arrived at 108.22
+customer 104 joined Q 1 at 108.22
+customer 104 joined service 1 at 108.22
+customer 105 arrived at 108.382
+customer 105 joined Q 3 at 108.382
+customer 105 joined service 3 at 108.382
+customer 104 left queue 1 at 108.949
+customer 106 arrived at 110.249
+customer 106 joined Q 1 at 110.249
+customer 106 joined service 1 at 110.249
+customer 107 arrived at 110.982
+customer 107 joined Q 0 at 110.982
+customer 108 arrived at 111.75
+customer 108 joined Q 1 at 111.75
+customer 103 left queue 0 at 111.994
+customer 107 joined service 0 at 111.994
+customer 109 arrived at 112.246
+customer 109 joined Q 0 at 112.246
+customer 106 left queue 1 at 113.549
+customer 108 joined service 1 at 113.549
+customer 102 left queue 2 at 114.313
+customer 109 joined Q 2 at 114.313
+customer 109 joined service 2 at 114.313
+customer 110 arrived at 115.078
+customer 110 joined Q 0 at 115.078
+customer 111 arrived at 115.202
+customer 111 joined Q 1 at 115.202
+customer 107 left queue 0 at 115.45
+customer 110 joined service 0 at 115.45
+customer 108 left queue 1 at 115.781
+customer 111 joined service 1 at 115.781
+customer 110 left queue 0 at 116.01
+customer 105 left queue 3 at 116.782
+customer 112 arrived at 116.881
+customer 112 joined Q 0 at 116.881
+customer 112 joined service 0 at 116.881
+customer 113 arrived at 117.563
+customer 113 joined Q 3 at 117.563
+customer 113 joined service 3 at 117.563
+customer 114 arrived at 118.174
+customer 114 joined Q 0 at 118.174
+customer 115 arrived at 118.584
+customer 115 joined Q 1 at 118.584
+customer 112 left queue 0 at 119.954
+customer 114 joined service 0 at 119.954
+customer 113 left queue 3 at 120.313
+customer 115 joined Q 3 at 120.313
+customer 115 joined service 3 at 120.313
+customer 116 arrived at 121.127
+customer 116 joined Q 0 at 121.127
+customer 114 left queue 0 at 121.796
+customer 116 joined service 0 at 121.796
+customer 117 arrived at 122.016
+customer 117 joined Q 0 at 122.016
+customer 118 arrived at 122.44
+customer 118 joined Q 1 at 122.44
+customer 111 left queue 1 at 123.333
+customer 118 joined service 1 at 123.333
+customer 119 arrived at 123.348
+customer 119 joined Q 1 at 123.348
+customer 120 arrived at 124.964
+customer 120 joined Q 2 at 124.964
+customer 121 arrived at 124.979
+customer 121 joined Q 3 at 124.979
+customer 97 left queue 4 at 125.017
+customer 121 joined Q 4 at 125.017
+customer 121 joined service 4 at 125.017
+customer 118 left queue 1 at 125.242
+customer 119 joined service 1 at 125.242
+customer 116 left queue 0 at 125.798
+customer 117 joined service 0 at 125.798
+customer 117 left queue 0 at 125.862
+customer 120 joined Q 0 at 125.862
+customer 120 joined service 0 at 125.862
+customer 122 arrived at 125.896
+customer 122 joined Q 0 at 125.896
+customer 123 arrived at 126.52
+customer 123 joined Q 1 at 126.52
+customer 109 left queue 2 at 127.055
+customer 123 joined Q 2 at 127.055
+customer 123 joined service 2 at 127.055
+customer 124 arrived at 127.752
+customer 124 joined Q 1 at 127.752
+customer 125 arrived at 128.841
+customer 125 joined Q 2 at 128.841
+customer 121 left queue 4 at 129.105
+customer 125 joined Q 4 at 129.105
+customer 125 joined service 4 at 129.105
+customer 126 arrived at 129.613
+customer 126 joined Q 2 at 129.613
+customer 123 left queue 2 at 129.866
+customer 126 joined service 2 at 129.866
+customer 120 left queue 0 at 129.989
+customer 122 joined service 0 at 129.989
+customer 127 arrived at 130.549
+customer 127 joined Q 0 at 130.549
+customer 128 arrived at 130.912
+customer 128 joined Q 2 at 130.912
+customer 115 left queue 3 at 131.755
+customer 128 joined Q 3 at 131.755
+customer 128 joined service 3 at 131.755
+customer 119 left queue 1 at 132.514
+customer 124 joined service 1 at 132.514
+customer 122 left queue 0 at 133.461
+customer 127 joined service 0 at 133.461
+customer 124 left queue 1 at 134.144
+customer 125 left queue 4 at 134.647
+customer 126 left queue 2 at 134.767
+customer 128 left queue 3 at 135.97
+customer 129 arrived at 136.703
+customer 129 joined Q 1 at 136.703
+customer 129 joined service 1 at 136.703
+customer 130 arrived at 137.14
+customer 130 joined Q 2 at 137.14
+customer 130 joined service 2 at 137.14
+customer 131 arrived at 137.438
+customer 131 joined Q 3 at 137.438
+customer 131 joined service 3 at 137.438
+customer 130 left queue 2 at 138.483
+customer 129 left queue 1 at 138.669
+customer 132 arrived at 142.629
+customer 132 joined Q 1 at 142.629
+customer 132 joined service 1 at 142.629
+customer 133 arrived at 143.62
+customer 133 joined Q 2 at 143.62
+customer 133 joined service 2 at 143.62
+customer 134 arrived at 144.09
+customer 134 joined Q 4 at 144.09
+customer 134 joined service 4 at 144.09
+customer 135 arrived at 144.36
+customer 135 joined Q 0 at 144.36
+customer 136 arrived at 144.811
+customer 136 joined Q 1 at 144.811
+customer 134 left queue 4 at 145.305
+customer 136 joined Q 4 at 145.305
+customer 136 joined service 4 at 145.305
+customer 137 arrived at 145.366
+customer 137 joined Q 1 at 145.366
+customer 138 arrived at 145.525
+customer 138 joined Q 2 at 145.525
+customer 133 left queue 2 at 145.736
+customer 138 joined service 2 at 145.736
+customer 139 arrived at 147.064
+customer 139 joined Q 2 at 147.064
+customer 132 left queue 1 at 147.088
+customer 137 joined service 1 at 147.088
+customer 140 arrived at 147.127
+customer 140 joined Q 1 at 147.127
+customer 136 left queue 4 at 147.333
+customer 139 joined Q 4 at 147.333
+customer 139 joined service 4 at 147.333
+customer 137 left queue 1 at 147.804
+customer 140 joined service 1 at 147.804
+customer 141 arrived at 147.846
+customer 141 joined Q 1 at 147.846
+customer 140 left queue 1 at 148.084
+customer 141 joined service 1 at 148.084
+customer 138 left queue 2 at 148.236
+customer 135 joined Q 2 at 148.236
+customer 135 joined service 2 at 148.236
+customer 142 arrived at 148.631
+customer 142 joined Q 0 at 148.631
+customer 143 arrived at 149.215
+customer 143 joined Q 1 at 149.215
+customer 144 arrived at 149.566
+customer 144 joined Q 2 at 149.566
+customer 145 arrived at 150.763
+customer 145 joined Q 3 at 150.763
+customer 146 arrived at 150.906
+customer 146 joined Q 4 at 150.906
+customer 141 left queue 1 at 151.32
+customer 143 joined service 1 at 151.32
+customer 135 left queue 2 at 151.77
+customer 144 joined service 2 at 151.77
+customer 147 arrived at 152.268
+customer 147 joined Q 1 at 152.268
+customer 148 arrived at 153.116
+customer 148 joined Q 2 at 153.116
+customer 144 left queue 2 at 153.349
+customer 148 joined service 2 at 153.349
+customer 143 left queue 1 at 153.95
+customer 147 joined service 1 at 153.95
+customer 149 arrived at 154.146
+customer 149 joined Q 1 at 154.146
+customer 139 left queue 4 at 154.259
+customer 146 joined service 4 at 154.259
+customer 147 left queue 1 at 154.592
+customer 149 joined service 1 at 154.592
+customer 150 arrived at 154.698
+customer 150 joined Q 1 at 154.698
+customer 151 arrived at 156.644
+customer 151 joined Q 2 at 156.644
+customer 152 arrived at 156.771
+customer 152 joined Q 4 at 156.771
+customer 153 arrived at 156.824
+customer 153 joined Q 0 at 156.824
+customer 154 arrived at 156.977
+customer 154 joined Q 1 at 156.977
+customer 155 arrived at 157.441
+customer 155 joined Q 2 at 157.441
+customer 156 arrived at 157.866
+customer 156 joined Q 3 at 157.866
+customer 149 left queue 1 at 158.409
+customer 150 joined service 1 at 158.409
+customer 148 left queue 2 at 158.733
+customer 151 joined service 2 at 158.733
+customer 157 arrived at 158.826
+customer 157 joined Q 1 at 158.826
+customer 127 left queue 0 at 159.523
+customer 142 joined service 0 at 159.523
+customer 158 arrived at 159.972
+customer 158 joined Q 0 at 159.972
+customer 146 left queue 4 at 160.39
+customer 152 joined service 4 at 160.39
+customer 156 joined Q 4 at 160.39
+customer 131 left queue 3 at 160.795
+customer 145 joined service 3 at 160.795
+customer 157 joined Q 3 at 160.795
+customer 152 left queue 4 at 160.961
+customer 156 joined service 4 at 160.961
+customer 158 joined Q 4 at 160.961
+customer 145 left queue 3 at 161.036
+customer 157 joined service 3 at 161.036
+customer 151 left queue 2 at 161.218
+customer 155 joined service 2 at 161.218
+customer 156 left queue 4 at 161.647
+customer 158 joined service 4 at 161.647
+customer 159 arrived at 162.444
+customer 159 joined Q 2 at 162.444
+customer 150 left queue 1 at 163.042
+customer 154 joined service 1 at 163.042
+customer 160 arrived at 163.078
+customer 160 joined Q 1 at 163.078
+customer 157 left queue 3 at 163.126
+customer 159 joined Q 3 at 163.126
+customer 159 joined service 3 at 163.126
+customer 155 left queue 2 at 163.131
+customer 160 joined Q 2 at 163.131
+customer 160 joined service 2 at 163.131
+customer 161 arrived at 163.565
+customer 161 joined Q 1 at 163.565
+customer 162 arrived at 164.976
+customer 162 joined Q 2 at 164.976
+customer 163 arrived at 165.228
+customer 163 joined Q 3 at 165.228
+customer 158 left queue 4 at 165.966
+customer 163 joined Q 4 at 165.966
+customer 163 joined service 4 at 165.966
+customer 160 left queue 2 at 165.985
+customer 162 joined service 2 at 165.985
+customer 164 arrived at 166.783
+customer 164 joined Q 2 at 166.783
+customer 165 arrived at 167.746
+customer 165 joined Q 3 at 167.746
+customer 166 arrived at 168.116
+customer 166 joined Q 4 at 168.116
+customer 167 arrived at 168.131
+customer 167 joined Q 0 at 168.131
+customer 163 left queue 4 at 168.157
+customer 166 joined service 4 at 168.157
+customer 167 joined Q 4 at 168.157
+customer 154 left queue 1 at 168.2
+customer 161 joined service 1 at 168.2
+customer 142 left queue 0 at 168.279
+customer 153 joined service 0 at 168.279
+customer 168 arrived at 168.517
+customer 168 joined Q 0 at 168.517
+customer 169 arrived at 168.729
+customer 169 joined Q 1 at 168.729
+customer 166 left queue 4 at 169.292
+customer 167 joined service 4 at 169.292
+customer 170 arrived at 170.074
+customer 170 joined Q 4 at 170.074
+customer 171 arrived at 170.519
+customer 171 joined Q 0 at 170.519
+customer 167 left queue 4 at 170.957
+customer 170 joined service 4 at 170.957
+customer 171 joined Q 4 at 170.957
+customer 170 left queue 4 at 171.023
+customer 171 joined service 4 at 171.023
+customer 172 arrived at 171.03
+customer 172 joined Q 4 at 171.03
+customer 173 arrived at 171.065
+customer 173 joined Q 0 at 171.065
+customer 162 left queue 2 at 172.334
+customer 164 joined service 2 at 172.334
+customer 173 joined Q 2 at 172.334
+customer 174 arrived at 172.52
+customer 174 joined Q 0 at 172.52
+customer 153 left queue 0 at 172.613
+customer 168 joined service 0 at 172.613
+customer 171 left queue 4 at 172.762
+customer 172 joined service 4 at 172.762
+customer 164 left queue 2 at 173.288
+customer 173 joined service 2 at 173.288
+customer 159 left queue 3 at 174.248
+customer 165 joined service 3 at 174.248
+customer 165 left queue 3 at 174.406
+customer 169 joined Q 3 at 174.406
+customer 169 joined service 3 at 174.406
+customer 175 arrived at 174.639
+customer 175 joined Q 1 at 174.639
+customer 172 left queue 4 at 174.765
+customer 175 joined Q 4 at 174.765
+customer 175 joined service 4 at 174.765
+customer 161 left queue 1 at 175.198
+customer 174 joined Q 1 at 175.198
+customer 174 joined service 1 at 175.198
+customer 176 arrived at 175.555
+customer 176 joined Q 0 at 175.555
+customer 173 left queue 2 at 175.585
+customer 176 joined Q 2 at 175.585
+customer 176 joined service 2 at 175.585
+customer 177 arrived at 177.327
+customer 177 joined Q 0 at 177.327
+customer 178 arrived at 178.165
+customer 178 joined Q 1 at 178.165
+customer 168 left queue 0 at 178.666
+customer 177 joined service 0 at 178.666
+customer 174 left queue 1 at 179.32
+customer 178 joined service 1 at 179.32
+customer 179 arrived at 179.845
+customer 179 joined Q 0 at 179.845
+customer 180 arrived at 180.035
+customer 180 joined Q 1 at 180.035
+customer 169 left queue 3 at 180.952
+customer 180 joined Q 3 at 180.952
+customer 180 joined service 3 at 180.952
+customer 181 arrived at 181.705
+customer 181 joined Q 1 at 181.705
+customer 180 left queue 3 at 181.807
+customer 181 joined Q 3 at 181.807
+customer 181 joined service 3 at 181.807
+customer 177 left queue 0 at 182.436
+customer 179 joined service 0 at 182.436
+customer 182 arrived at 183.528
+customer 182 joined Q 0 at 183.528
+customer 176 left queue 2 at 183.558
+customer 182 joined Q 2 at 183.558
+customer 182 joined service 2 at 183.558
+customer 183 arrived at 183.743
+customer 183 joined Q 0 at 183.743
+customer 175 left queue 4 at 184.303
+customer 183 joined Q 4 at 184.303
+customer 183 joined service 4 at 184.303
+customer 182 left queue 2 at 184.527
+customer 184 arrived at 185.51
+customer 184 joined Q 2 at 185.51
+customer 184 joined service 2 at 185.51
+customer 185 arrived at 185.565
+customer 185 joined Q 0 at 185.565
+customer 186 arrived at 185.727
+customer 186 joined Q 1 at 185.727
+customer 184 left queue 2 at 185.759
+customer 186 joined Q 2 at 185.759
+customer 186 joined service 2 at 185.759
+customer 187 arrived at 185.834
+customer 187 joined Q 1 at 185.834
+customer 186 left queue 2 at 186.487
+customer 187 joined Q 2 at 186.487
+customer 187 joined service 2 at 186.487
+customer 188 arrived at 186.683
+customer 188 joined Q 1 at 186.683
+customer 189 arrived at 186.737
+customer 189 joined Q 2 at 186.737
+customer 190 arrived at 186.744
+customer 190 joined Q 3 at 186.744
+customer 178 left queue 1 at 186.878
+customer 188 joined service 1 at 186.878
+customer 187 left queue 2 at 186.969
+customer 189 joined service 2 at 186.969
+customer 191 arrived at 187.188
+customer 191 joined Q 1 at 187.188
+customer 189 left queue 2 at 187.211
+customer 191 joined Q 2 at 187.211
+customer 191 joined service 2 at 187.211
+customer 191 left queue 2 at 187.242
+customer 190 joined Q 2 at 187.242
+customer 190 joined service 2 at 187.242
+customer 192 arrived at 187.322
+customer 192 joined Q 1 at 187.322
+customer 193 arrived at 188.376
+customer 193 joined Q 2 at 188.376
+customer 190 left queue 2 at 189.239
+customer 193 joined service 2 at 189.239
+customer 194 arrived at 189.316
+customer 194 joined Q 2 at 189.316
+customer 181 left queue 3 at 189.325
+customer 194 joined Q 3 at 189.325
+customer 194 joined service 3 at 189.325
+customer 195 arrived at 189.587
+customer 195 joined Q 2 at 189.587
+customer 193 left queue 2 at 189.845
+customer 195 joined service 2 at 189.845
+customer 196 arrived at 190.287
+customer 196 joined Q 2 at 190.287
+customer 179 left queue 0 at 190.639
+customer 185 joined service 0 at 190.639
+customer 188 left queue 1 at 190.699
+customer 192 joined service 1 at 190.699
+customer 197 arrived at 191.556
+customer 197 joined Q 0 at 191.556
+customer 198 arrived at 191.606
+customer 198 joined Q 1 at 191.606
+customer 185 left queue 0 at 191.858
+customer 197 joined service 0 at 191.858
+customer 199 arrived at 191.98
+customer 199 joined Q 0 at 191.98
+customer 183 left queue 4 at 192.252
+customer 196 joined Q 4 at 192.252
+customer 196 joined service 4 at 192.252
+customer 196 left queue 4 at 192.473
+customer 198 joined Q 4 at 192.473
+customer 198 joined service 4 at 192.473
+customer 200 arrived at 192.548
+customer 200 joined Q 1 at 192.548
+customer 201 arrived at 192.734
+customer 201 joined Q 2 at 192.734
+customer 192 left queue 1 at 193.848
+customer 200 joined service 1 at 193.848
+customer 194 left queue 3 at 194.066
+customer 201 joined Q 3 at 194.066
+customer 201 joined service 3 at 194.066
+customer 195 left queue 2 at 194.079
+customer 199 joined Q 2 at 194.079
+customer 199 joined service 2 at 194.079
+customer 198 left queue 4 at 194.158
+customer 201 left queue 3 at 194.904
+customer 202 arrived at 196.093
+customer 202 joined Q 3 at 196.093
+customer 202 joined service 3 at 196.093
+customer 200 left queue 1 at 196.403
+customer 203 arrived at 197.139
+customer 203 joined Q 1 at 197.139
+customer 203 joined service 1 at 197.139
+customer 197 left queue 0 at 197.57
+customer 204 arrived at 199.182
+customer 204 joined Q 0 at 199.182
+customer 204 joined service 0 at 199.182
+customer 205 arrived at 199.666
+customer 205 joined Q 4 at 199.666
+customer 205 joined service 4 at 199.666
+customer 206 arrived at 199.706
+customer 206 joined Q 0 at 199.706
+customer 205 left queue 4 at 199.845
+customer 206 joined Q 4 at 199.845
+customer 206 joined service 4 at 199.845
+customer 202 left queue 3 at 200.8
+customer 207 arrived at 201.003
+customer 207 joined Q 3 at 201.003
+customer 207 joined service 3 at 201.003
+customer 208 arrived at 201.28
+customer 208 joined Q 0 at 201.28
+customer 204 left queue 0 at 201.362
+customer 208 joined service 0 at 201.362
+customer 209 arrived at 201.838
+customer 209 joined Q 0 at 201.838
+customer 210 arrived at 202.056
+customer 210 joined Q 1 at 202.056
+customer 207 left queue 3 at 202.249
+customer 210 joined Q 3 at 202.249
+customer 210 joined service 3 at 202.249
+customer 211 arrived at 203.024
+customer 211 joined Q 1 at 203.024
+customer 210 left queue 3 at 203.23
+customer 211 joined Q 3 at 203.23
+customer 211 joined service 3 at 203.23
+customer 208 left queue 0 at 203.871
+customer 209 joined service 0 at 203.871
+customer 212 arrived at 205.333
+customer 212 joined Q 0 at 205.333
+customer 206 left queue 4 at 205.682
+customer 212 joined Q 4 at 205.682
+customer 212 joined service 4 at 205.682
+customer 203 left queue 1 at 206.332
+customer 211 left queue 3 at 207.589
+customer 213 arrived at 208.034
+customer 213 joined Q 1 at 208.034
+customer 213 joined service 1 at 208.034
+customer 214 arrived at 209.034
+customer 214 joined Q 3 at 209.034
+customer 214 joined service 3 at 209.034
+customer 199 left queue 2 at 209.194
+customer 215 arrived at 209.455
+customer 215 joined Q 2 at 209.455
+customer 215 joined service 2 at 209.455
+customer 216 arrived at 209.868
+customer 216 joined Q 0 at 209.868
+customer 217 arrived at 210.217
+customer 217 joined Q 1 at 210.217
+customer 214 left queue 3 at 210.927
+customer 217 joined Q 3 at 210.927
+customer 217 joined service 3 at 210.927
+customer 218 arrived at 211.071
+customer 218 joined Q 1 at 211.071
+customer 215 left queue 2 at 211.314
+customer 218 joined Q 2 at 211.314
+customer 218 joined service 2 at 211.314
+customer 219 arrived at 211.351
+customer 219 joined Q 1 at 211.351
+customer 217 left queue 3 at 212.499
+customer 219 joined Q 3 at 212.499
+customer 219 joined service 3 at 212.499
+customer 213 left queue 1 at 212.534
+customer 216 joined Q 1 at 212.534
+customer 216 joined service 1 at 212.534
+customer 220 arrived at 213.16
+customer 220 joined Q 0 at 213.16
+customer 219 left queue 3 at 213.759
+customer 220 joined Q 3 at 213.759
+customer 220 joined service 3 at 213.759
+customer 221 arrived at 214.053
+customer 221 joined Q 0 at 214.053
+customer 209 left queue 0 at 214.262
+customer 221 joined service 0 at 214.262
+customer 222 arrived at 215.104
+customer 222 joined Q 0 at 215.104
+customer 218 left queue 2 at 215.156
+customer 222 joined Q 2 at 215.156
+customer 222 joined service 2 at 215.156
+customer 223 arrived at 215.576
+customer 223 joined Q 0 at 215.576
+customer 224 arrived at 215.895
+customer 224 joined Q 1 at 215.895
+customer 225 arrived at 216.485
+customer 225 joined Q 2 at 216.485
+customer 222 left queue 2 at 217.284
+customer 225 joined service 2 at 217.284
+customer 226 arrived at 217.715
+customer 226 joined Q 2 at 217.715
+customer 220 left queue 3 at 217.778
+customer 226 joined Q 3 at 217.778
+customer 226 joined service 3 at 217.778
+customer 212 left queue 4 at 217.834
+customer 224 joined Q 4 at 217.834
+customer 224 joined service 4 at 217.834
+customer 225 left queue 2 at 218.719
+customer 223 joined Q 2 at 218.719
+customer 223 joined service 2 at 218.719
+customer 221 left queue 0 at 218.987
+customer 227 arrived at 220.186
+customer 227 joined Q 0 at 220.186
+customer 227 joined service 0 at 220.186
+customer 226 left queue 3 at 220.434
+customer 216 left queue 1 at 220.676
+customer 224 left queue 4 at 223.369
+customer 228 arrived at 227.199
+customer 228 joined Q 1 at 227.199
+customer 228 joined service 1 at 227.199
+customer 229 arrived at 228.503
+customer 229 joined Q 3 at 228.503
+customer 229 joined service 3 at 228.503
+customer 230 arrived at 228.552
+customer 230 joined Q 4 at 228.552
+customer 230 joined service 4 at 228.552
+customer 229 left queue 3 at 228.725
+customer 231 arrived at 229.399
+customer 231 joined Q 3 at 229.399
+customer 231 joined service 3 at 229.399
+customer 223 left queue 2 at 229.838
+customer 232 arrived at 229.983
+customer 232 joined Q 2 at 229.983
+customer 232 joined service 2 at 229.983
+customer 233 arrived at 230.185
+customer 233 joined Q 0 at 230.185
+customer 232 left queue 2 at 230.892
+customer 233 joined Q 2 at 230.892
+customer 233 joined service 2 at 230.892
+customer 234 arrived at 230.912
+customer 234 joined Q 0 at 230.912
+customer 235 arrived at 231.031
+customer 235 joined Q 1 at 231.031
+customer 236 arrived at 231.087
+customer 236 joined Q 2 at 231.087
+customer 237 arrived at 231.829
+customer 237 joined Q 3 at 231.829
+customer 238 arrived at 231.855
+customer 238 joined Q 4 at 231.855
+customer 231 left queue 3 at 232.028
+customer 237 joined service 3 at 232.028
+customer 230 left queue 4 at 232.364
+customer 238 joined service 4 at 232.364
+customer 239 arrived at 232.529
+customer 239 joined Q 3 at 232.529
+customer 237 left queue 3 at 232.563
+customer 239 joined service 3 at 232.563
+customer 240 arrived at 232.615
+customer 240 joined Q 3 at 232.615
+customer 238 left queue 4 at 232.618
+customer 240 joined Q 4 at 232.618
+customer 240 joined service 4 at 232.618
+customer 241 arrived at 232.697
+customer 241 joined Q 3 at 232.697
+customer 240 left queue 4 at 232.736
+customer 241 joined Q 4 at 232.736
+customer 241 joined service 4 at 232.736
+customer 228 left queue 1 at 233.064
+customer 235 joined service 1 at 233.064
+customer 242 arrived at 233.357
+customer 242 joined Q 1 at 233.357
+customer 235 left queue 1 at 233.451
+customer 242 joined service 1 at 233.451
+customer 242 left queue 1 at 233.822
+customer 234 joined Q 1 at 233.822
+customer 234 joined service 1 at 233.822
+customer 233 left queue 2 at 234.161
+customer 236 joined service 2 at 234.161
+customer 243 arrived at 234.185
+customer 243 joined Q 0 at 234.185
+customer 241 left queue 4 at 235.766
+customer 243 joined Q 4 at 235.766
+customer 243 joined service 4 at 235.766
+customer 239 left queue 3 at 235.902
+customer 244 arrived at 236.301
+customer 244 joined Q 3 at 236.301
+customer 244 joined service 3 at 236.301
+customer 245 arrived at 236.684
+customer 245 joined Q 0 at 236.684
+customer 234 left queue 1 at 236.791
+customer 245 joined Q 1 at 236.791
+customer 245 joined service 1 at 236.791
+customer 246 arrived at 236.877
+customer 246 joined Q 0 at 236.877
+customer 245 left queue 1 at 237.661
+customer 246 joined Q 1 at 237.661
+customer 246 joined service 1 at 237.661
+customer 236 left queue 2 at 237.888
+customer 244 left queue 3 at 238.024
+customer 247 arrived at 238.972
+customer 247 joined Q 2 at 238.972
+customer 247 joined service 2 at 238.972
+customer 248 arrived at 239.346
+customer 248 joined Q 3 at 239.346
+customer 248 joined service 3 at 239.346
+customer 249 arrived at 239.606
+customer 249 joined Q 0 at 239.606
+customer 250 arrived at 239.935
+customer 250 joined Q 1 at 239.935
+customer 248 left queue 3 at 240.519
+customer 250 joined Q 3 at 240.519
+customer 250 joined service 3 at 240.519
+customer 247 left queue 2 at 240.653
+customer 249 joined Q 2 at 240.653
+customer 249 joined service 2 at 240.653
+customer 251 arrived at 240.919
+customer 251 joined Q 0 at 240.919
+customer 252 arrived at 241.475
+customer 252 joined Q 1 at 241.475
+customer 250 left queue 3 at 241.998
+customer 252 joined Q 3 at 241.998
+customer 252 joined service 3 at 241.998
+customer 253 arrived at 242.167
+customer 253 joined Q 1 at 242.167
+customer 252 left queue 3 at 244.503
+customer 253 joined Q 3 at 244.503
+customer 253 joined service 3 at 244.503
+customer 249 left queue 2 at 245.079
+customer 251 joined Q 2 at 245.079
+customer 251 joined service 2 at 245.079
+customer 243 left queue 4 at 245.288
+customer 254 arrived at 246.06
+customer 254 joined Q 4 at 246.06
+customer 254 joined service 4 at 246.06
+customer 255 arrived at 246.596
+customer 255 joined Q 0 at 246.596
+customer 256 arrived at 246.613
+customer 256 joined Q 1 at 246.613
+customer 246 left queue 1 at 247.087
+customer 256 joined service 1 at 247.087
+customer 256 left queue 1 at 247.164
+customer 255 joined Q 1 at 247.164
+customer 255 joined service 1 at 247.164
+customer 253 left queue 3 at 247.618
+customer 254 left queue 4 at 248.472
+customer 257 arrived at 249.587
+customer 257 joined Q 3 at 249.587
+customer 257 joined service 3 at 249.587
+customer 258 arrived at 250.737
+customer 258 joined Q 4 at 250.737
+customer 258 joined service 4 at 250.737
+customer 259 arrived at 251.596
+customer 259 joined Q 0 at 251.596
+customer 227 left queue 0 at 251.746
+customer 259 joined service 0 at 251.746
+customer 260 arrived at 252.357
+customer 260 joined Q 0 at 252.357
+customer 261 arrived at 252.495
+customer 261 joined Q 1 at 252.495
+customer 262 arrived at 252.558
+customer 262 joined Q 2 at 252.558
+customer 258 left queue 4 at 254.601
+customer 262 joined Q 4 at 254.601
+customer 262 joined service 4 at 254.601
+customer 257 left queue 3 at 254.763
+customer 261 joined Q 3 at 254.763
+customer 261 joined service 3 at 254.763
+customer 263 arrived at 254.922
+customer 263 joined Q 1 at 254.922
+customer 261 left queue 3 at 255.046
+customer 263 joined Q 3 at 255.046
+customer 263 joined service 3 at 255.046
+customer 259 left queue 0 at 255.173
+customer 260 joined service 0 at 255.173
+customer 262 left queue 4 at 255.22
+customer 264 arrived at 256.559
+customer 264 joined Q 4 at 256.559
+customer 264 joined service 4 at 256.559
+customer 265 arrived at 260.508
+customer 265 joined Q 0 at 260.508
+customer 255 left queue 1 at 260.546
+customer 265 joined Q 1 at 260.546
+customer 265 joined service 1 at 260.546
+customer 266 arrived at 260.895
+customer 266 joined Q 0 at 260.895
+customer 265 left queue 1 at 262.288
+customer 266 joined Q 1 at 262.288
+customer 266 joined service 1 at 262.288
+customer 260 left queue 0 at 262.539
+customer 251 left queue 2 at 262.596
+customer 267 arrived at 263.768
+customer 267 joined Q 0 at 263.768
+customer 267 joined service 0 at 263.768
+customer 268 arrived at 264.553
+customer 268 joined Q 2 at 264.553
+customer 268 joined service 2 at 264.553
+customer 269 arrived at 265.25
+customer 269 joined Q 0 at 265.25
+customer 263 left queue 3 at 265.686
+customer 269 joined Q 3 at 265.686
+customer 269 joined service 3 at 265.686
+customer 270 arrived at 266.549
+customer 270 joined Q 0 at 266.549
+customer 267 left queue 0 at 267.301
+customer 270 joined service 0 at 267.301
+customer 271 arrived at 267.322
+customer 271 joined Q 0 at 267.322
+customer 268 left queue 2 at 267.69
+customer 271 joined Q 2 at 267.69
+customer 271 joined service 2 at 267.69
+customer 272 arrived at 267.831
+customer 272 joined Q 0 at 267.831
+customer 273 arrived at 269.358
+customer 273 joined Q 1 at 269.358
+customer 271 left queue 2 at 269.98
+customer 273 joined Q 2 at 269.98
+customer 273 joined service 2 at 269.98
+customer 270 left queue 0 at 270.779
+customer 272 joined service 0 at 270.779
+customer 269 left queue 3 at 271.531
+customer 274 arrived at 272.598
+customer 274 joined Q 3 at 272.598
+customer 274 joined service 3 at 272.598
+customer 275 arrived at 274.255
+customer 275 joined Q 0 at 274.255
+customer 264 left queue 4 at 274.327
+customer 275 joined Q 4 at 274.327
+customer 275 joined service 4 at 274.327
+customer 276 arrived at 274.566
+customer 276 joined Q 0 at 274.566
+customer 266 left queue 1 at 275.218
+customer 276 joined Q 1 at 275.218
+customer 276 joined service 1 at 275.218
+customer 275 left queue 4 at 275.723
+customer 277 arrived at 275.935
+customer 277 joined Q 4 at 275.935
+customer 277 joined service 4 at 275.935
+customer 278 arrived at 276.52
+customer 278 joined Q 0 at 276.52
+customer 279 arrived at 276.786
+customer 279 joined Q 1 at 276.786
+customer 273 left queue 2 at 276.85
+customer 279 joined Q 2 at 276.85
+customer 279 joined service 2 at 276.85
+customer 279 left queue 2 at 278.045
+customer 278 joined Q 2 at 278.045
+customer 278 joined service 2 at 278.045
+customer 280 arrived at 278.26
+customer 280 joined Q 0 at 278.26
+customer 277 left queue 4 at 278.568
+customer 280 joined Q 4 at 278.568
+customer 280 joined service 4 at 278.568
+customer 281 arrived at 279.733
+customer 281 joined Q 0 at 279.733
+customer 274 left queue 3 at 280.057
+customer 281 joined Q 3 at 280.057
+customer 281 joined service 3 at 280.057
+customer 282 arrived at 280.386
+customer 282 joined Q 0 at 280.386
+customer 276 left queue 1 at 281.381
+customer 282 joined Q 1 at 281.381
+customer 282 joined service 1 at 281.381
+customer 283 arrived at 282.07
+customer 283 joined Q 0 at 282.07
+customer 284 arrived at 282.523
+customer 284 joined Q 1 at 282.523
+customer 285 arrived at 282.743
+customer 285 joined Q 2 at 282.743
+customer 281 left queue 3 at 282.996
+customer 285 joined Q 3 at 282.996
+customer 285 joined service 3 at 282.996
+customer 286 arrived at 283.35
+customer 286 joined Q 2 at 283.35
+customer 287 arrived at 284.016
+customer 287 joined Q 3 at 284.016
+customer 278 left queue 2 at 284.679
+customer 286 joined service 2 at 284.679
+customer 285 left queue 3 at 285.035
+customer 287 joined service 3 at 285.035
+customer 280 left queue 4 at 285.198
+customer 284 joined Q 4 at 285.198
+customer 284 joined service 4 at 285.198
+customer 272 left queue 0 at 285.359
+customer 283 joined service 0 at 285.359
+customer 286 left queue 2 at 285.667
+customer 288 arrived at 286.617
+customer 288 joined Q 2 at 286.617
+customer 288 joined service 2 at 286.617
+customer 289 arrived at 287.001
+customer 289 joined Q 0 at 287.001
+customer 287 left queue 3 at 287.766
+customer 289 joined Q 3 at 287.766
+customer 289 joined service 3 at 287.766
+customer 284 left queue 4 at 288.194
+customer 288 left queue 2 at 288.343
+customer 282 left queue 1 at 288.958
+customer 290 arrived at 289.418
+customer 290 joined Q 1 at 289.418
+customer 290 joined service 1 at 289.418
+customer 291 arrived at 289.646
+customer 291 joined Q 2 at 289.646
+customer 291 joined service 2 at 289.646
+customer 290 left queue 1 at 290.444
+customer 292 arrived at 290.509
+customer 292 joined Q 1 at 290.509
+customer 292 joined service 1 at 290.509
+customer 293 arrived at 291.647
+customer 293 joined Q 4 at 291.647
+customer 293 joined service 4 at 291.647
+customer 294 arrived at 292.679
+customer 294 joined Q 0 at 292.679
+customer 291 left queue 2 at 293.531
+customer 294 joined Q 2 at 293.531
+customer 294 joined service 2 at 293.531
+customer 295 arrived at 293.931
+customer 295 joined Q 0 at 293.931
+customer 292 left queue 1 at 295.628
+customer 295 joined Q 1 at 295.628
+customer 295 joined service 1 at 295.628
+customer 293 left queue 4 at 296.292
+customer 296 arrived at 296.969
+customer 296 joined Q 4 at 296.969
+customer 296 joined service 4 at 296.969
+customer 283 left queue 0 at 297.065
+customer 297 arrived at 297.577
+customer 297 joined Q 0 at 297.577
+customer 297 joined service 0 at 297.577
+customer 289 left queue 3 at 298.643
+customer 298 arrived at 298.81
+customer 298 joined Q 3 at 298.81
+customer 298 joined service 3 at 298.81
+customer 294 left queue 2 at 299.164
+customer 296 left queue 4 at 299.705
+customer 299 arrived at 299.946
+customer 299 joined Q 2 at 299.946
+customer 299 joined service 2 at 299.946
+customer 300 arrived at 299.978
+customer 300 joined Q 4 at 299.978
+customer 300 joined service 4 at 299.978
+customer 299 left queue 2 at 300.091
+customer 301 arrived at 300.737
+customer 301 joined Q 2 at 300.737
+customer 301 joined service 2 at 300.737
+customer 302 arrived at 301.743
+customer 302 joined Q 0 at 301.743
+customer 303 arrived at 301.997
+customer 303 joined Q 1 at 301.997
+customer 304 arrived at 302.407
+customer 304 joined Q 2 at 302.407
+customer 305 arrived at 302.675
+customer 305 joined Q 3 at 302.675
+customer 297 left queue 0 at 303.123
+customer 302 joined service 0 at 303.123
+customer 300 left queue 4 at 303.392
+customer 305 joined Q 4 at 303.392
+customer 305 joined service 4 at 303.392
+customer 306 arrived at 303.53
+customer 306 joined Q 0 at 303.53
+customer 307 arrived at 303.852
+customer 307 joined Q 3 at 303.852
+customer 298 left queue 3 at 303.924
+customer 307 joined service 3 at 303.924
+customer 308 arrived at 304.007
+customer 308 joined Q 3 at 304.007
+customer 302 left queue 0 at 304.267
+customer 306 joined service 0 at 304.267
+customer 309 arrived at 304.335
+customer 309 joined Q 0 at 304.335
+customer 310 arrived at 304.879
+customer 310 joined Q 4 at 304.879
+customer 307 left queue 3 at 305.131
+customer 308 joined service 3 at 305.131
+customer 305 left queue 4 at 305.238
+customer 310 joined service 4 at 305.238
+customer 311 arrived at 305.241
+customer 311 joined Q 3 at 305.241
+customer 301 left queue 2 at 305.262
+customer 304 joined service 2 at 305.262
+customer 310 left queue 4 at 305.935
+customer 311 joined Q 4 at 305.935
+customer 311 joined service 4 at 305.935
+customer 308 left queue 3 at 306.58
+customer 303 joined Q 3 at 306.58
+customer 303 joined service 3 at 306.58
+customer 304 left queue 2 at 306.738
+customer 309 joined Q 2 at 306.738
+customer 309 joined service 2 at 306.738
+customer 312 arrived at 307.232
+customer 312 joined Q 0 at 307.232
+customer 313 arrived at 307.315
+customer 313 joined Q 1 at 307.315
+customer 314 arrived at 307.803
+customer 314 joined Q 2 at 307.803
+customer 306 left queue 0 at 308.114
+customer 312 joined service 0 at 308.114
+customer 303 left queue 3 at 308.213
+customer 314 joined Q 3 at 308.213
+customer 314 joined service 3 at 308.213
+customer 311 left queue 4 at 308.382
+customer 313 joined Q 4 at 308.382
+customer 313 joined service 4 at 308.382
+customer 312 left queue 0 at 308.484
+customer 295 left queue 1 at 309.302
+customer 315 arrived at 310.005
+customer 315 joined Q 0 at 310.005
+customer 315 joined service 0 at 310.005
+customer 314 left queue 3 at 310.409
+customer 316 arrived at 310.971
+customer 316 joined Q 1 at 310.971
+customer 316 joined service 1 at 310.971
+customer 317 arrived at 311.343
+customer 317 joined Q 3 at 311.343
+customer 317 joined service 3 at 311.343
+customer 318 arrived at 311.886
+customer 318 joined Q 0 at 311.886
+customer 316 left queue 1 at 312.643
+customer 318 joined Q 1 at 312.643
+customer 318 joined service 1 at 312.643
+customer 317 left queue 3 at 313.788
+customer 315 left queue 0 at 314.354
+customer 319 arrived at 314.974
+customer 319 joined Q 0 at 314.974
+customer 319 joined service 0 at 314.974
+customer 309 left queue 2 at 315.697
+customer 320 arrived at 316.22
+customer 320 joined Q 2 at 316.22
+customer 320 joined service 2 at 316.22
+customer 321 arrived at 316.27
+customer 321 joined Q 3 at 316.27
+customer 321 joined service 3 at 316.27
+customer 322 arrived at 316.386
+customer 322 joined Q 0 at 316.386
+customer 320 left queue 2 at 316.446
+customer 322 joined Q 2 at 316.446
+customer 322 joined service 2 at 316.446
+customer 321 left queue 3 at 316.791
+customer 323 arrived at 317.266
+customer 323 joined Q 3 at 317.266
+customer 323 joined service 3 at 317.266
+customer 324 arrived at 317.496
+customer 324 joined Q 0 at 317.496
+customer 313 left queue 4 at 318.29
+customer 324 joined Q 4 at 318.29
+customer 324 joined service 4 at 318.29
+customer 323 left queue 3 at 318.301
+customer 325 arrived at 318.948
+customer 325 joined Q 3 at 318.948
+customer 325 joined service 3 at 318.948
+customer 326 arrived at 320.04
+customer 326 joined Q 0 at 320.04
+customer 322 left queue 2 at 320.408
+customer 326 joined Q 2 at 320.408
+customer 326 joined service 2 at 320.408
+customer 327 arrived at 320.474
+customer 327 joined Q 0 at 320.474
+customer 319 left queue 0 at 320.581
+customer 327 joined service 0 at 320.581
+customer 326 left queue 2 at 322.362
+customer 328 arrived at 323.545
+customer 328 joined Q 2 at 323.545
+customer 328 joined service 2 at 323.545
+customer 325 left queue 3 at 323.859
+customer 324 left queue 4 at 324.824
+customer 329 arrived at 326.387
+customer 329 joined Q 3 at 326.387
+customer 329 joined service 3 at 326.387
+customer 318 left queue 1 at 326.539
+customer 330 arrived at 327.144
+customer 330 joined Q 1 at 327.144
+customer 330 joined service 1 at 327.144
+customer 329 left queue 3 at 329.795
+customer 331 arrived at 330.19
+customer 331 joined Q 3 at 330.19
+customer 331 joined service 3 at 330.19
+customer 332 arrived at 330.337
+customer 332 joined Q 4 at 330.337
+customer 332 joined service 4 at 330.337
+customer 331 left queue 3 at 330.85
+customer 333 arrived at 331.314
+customer 333 joined Q 3 at 331.314
+customer 333 joined service 3 at 331.314
+customer 334 arrived at 331.957
+customer 334 joined Q 0 at 331.957
+customer 335 arrived at 332.288
+customer 335 joined Q 1 at 332.288
+customer 336 arrived at 332.513
+customer 336 joined Q 2 at 332.513
+customer 337 arrived at 332.591
+customer 337 joined Q 3 at 332.591
+customer 338 arrived at 332.714
+customer 338 joined Q 4 at 332.714
+customer 333 left queue 3 at 334.208
+customer 337 joined service 3 at 334.208
+customer 327 left queue 0 at 334.402
+customer 334 joined service 0 at 334.402
+customer 332 left queue 4 at 334.733
+customer 338 joined service 4 at 334.733
+customer 338 left queue 4 at 335.085
+customer 336 joined Q 4 at 335.085
+customer 336 joined service 4 at 335.085
+customer 334 left queue 0 at 335.418
+customer 335 joined Q 0 at 335.418
+customer 335 joined service 0 at 335.418
+customer 336 left queue 4 at 335.638
+customer 337 left queue 3 at 335.696
+customer 339 arrived at 336.074
+customer 339 joined Q 3 at 336.074
+customer 339 joined service 3 at 336.074
+customer 328 left queue 2 at 336.332
+customer 340 arrived at 337.115
+customer 340 joined Q 2 at 337.115
+customer 340 joined service 2 at 337.115
+customer 341 arrived at 339.369
+customer 341 joined Q 4 at 339.369
+customer 341 joined service 4 at 339.369
+customer 342 arrived at 339.7
+customer 342 joined Q 0 at 339.7
+customer 339 left queue 3 at 340.761
+customer 342 joined Q 3 at 340.761
+customer 342 joined service 3 at 340.761
+customer 330 left queue 1 at 340.85
+customer 341 left queue 4 at 340.857
+customer 343 arrived at 342.184
+customer 343 joined Q 1 at 342.184
+customer 343 joined service 1 at 342.184
+customer 344 arrived at 342.614
+customer 344 joined Q 4 at 342.614
+customer 344 joined service 4 at 342.614
+customer 345 arrived at 343.196
+customer 345 joined Q 0 at 343.196
+customer 343 left queue 1 at 344.121
+customer 345 joined Q 1 at 344.121
+customer 345 joined service 1 at 344.121
+customer 344 left queue 4 at 345.232
+customer 346 arrived at 347.105
+customer 346 joined Q 4 at 347.105
+customer 346 joined service 4 at 347.105
+customer 340 left queue 2 at 347.256
+customer 347 arrived at 347.545
+customer 347 joined Q 2 at 347.545
+customer 347 joined service 2 at 347.545
+customer 348 arrived at 348.767
+customer 348 joined Q 0 at 348.767
+customer 346 left queue 4 at 349.083
+customer 348 joined Q 4 at 349.083
+customer 348 joined service 4 at 349.083
+customer 349 arrived at 349.626
+customer 349 joined Q 0 at 349.626
+customer 350 arrived at 350.142
+customer 350 joined Q 1 at 350.142
+customer 335 left queue 0 at 350.535
+customer 349 joined service 0 at 350.535
+customer 351 arrived at 350.877
+customer 351 joined Q 0 at 350.877
+customer 342 left queue 3 at 351.94
+customer 350 joined Q 3 at 351.94
+customer 350 joined service 3 at 351.94
+customer 352 arrived at 352.267
+customer 352 joined Q 1 at 352.267
+customer 353 arrived at 352.721
+customer 353 joined Q 2 at 352.721
+customer 349 left queue 0 at 352.859
+customer 351 joined service 0 at 352.859
+customer 348 left queue 4 at 352.947
+customer 353 joined Q 4 at 352.947
+customer 353 joined service 4 at 352.947
+customer 354 arrived at 353.008
+customer 354 joined Q 0 at 353.008
+customer 355 arrived at 353.043
+customer 355 joined Q 2 at 353.043
+customer 347 left queue 2 at 353.046
+customer 355 joined service 2 at 353.046
+customer 356 arrived at 353.311
+customer 356 joined Q 2 at 353.311
+customer 357 arrived at 353.687
+customer 357 joined Q 3 at 353.687
+customer 358 arrived at 353.817
+customer 358 joined Q 4 at 353.817
+customer 359 arrived at 353.986
+customer 359 joined Q 0 at 353.986
+customer 355 left queue 2 at 354.335
+customer 356 joined service 2 at 354.335
+customer 359 joined Q 2 at 354.335
+customer 360 arrived at 354.349
+customer 360 joined Q 0 at 354.349
+customer 356 left queue 2 at 354.495
+customer 359 joined service 2 at 354.495
+customer 360 joined Q 2 at 354.495
+customer 353 left queue 4 at 354.991
+customer 358 joined service 4 at 354.991
+customer 350 left queue 3 at 355.249
+customer 357 joined service 3 at 355.249
+customer 361 arrived at 355.309
+customer 361 joined Q 3 at 355.309
+customer 359 left queue 2 at 355.702
+customer 360 joined service 2 at 355.702
+customer 357 left queue 3 at 355.836
+customer 361 joined service 3 at 355.836
+customer 362 arrived at 356.049
+customer 362 joined Q 2 at 356.049
+customer 363 arrived at 356.217
+customer 363 joined Q 3 at 356.217
+customer 364 arrived at 356.381
+customer 364 joined Q 4 at 356.381
+customer 360 left queue 2 at 356.463
+customer 362 joined service 2 at 356.463
+customer 358 left queue 4 at 356.68
+customer 364 joined service 4 at 356.68
+customer 361 left queue 3 at 357.469
+customer 363 joined service 3 at 357.469
+customer 363 left queue 3 at 358.224
+customer 352 joined Q 3 at 358.224
+customer 352 joined service 3 at 358.224
+customer 352 left queue 3 at 358.962
+customer 354 joined Q 3 at 358.962
+customer 354 joined service 3 at 358.962
+customer 351 left queue 0 at 359.111
+customer 365 arrived at 359.124
+customer 365 joined Q 0 at 359.124
+customer 365 joined service 0 at 359.124
+customer 366 arrived at 359.492
+customer 366 joined Q 0 at 359.492
+customer 367 arrived at 359.522
+customer 367 joined Q 1 at 359.522
+customer 364 left queue 4 at 360.01
+customer 367 joined Q 4 at 360.01
+customer 367 joined service 4 at 360.01
+customer 367 left queue 4 at 360.141
+customer 366 joined Q 4 at 360.141
+customer 366 joined service 4 at 360.141
+customer 365 left queue 0 at 360.78
+customer 362 left queue 2 at 360.782
+customer 345 left queue 1 at 361.714
+customer 368 arrived at 362.449
+customer 368 joined Q 0 at 362.449
+customer 368 joined service 0 at 362.449
+customer 369 arrived at 362.83
+customer 369 joined Q 1 at 362.83
+customer 369 joined service 1 at 362.83
+customer 370 arrived at 363.363
+customer 370 joined Q 2 at 363.363
+customer 370 joined service 2 at 363.363
+customer 371 arrived at 363.961
+customer 371 joined Q 0 at 363.961
+customer 368 left queue 0 at 364.163
+customer 371 joined service 0 at 364.163
+customer 372 arrived at 364.643
+customer 372 joined Q 0 at 364.643
+customer 369 left queue 1 at 365.229
+customer 372 joined Q 1 at 365.229
+customer 372 joined service 1 at 365.229
+customer 370 left queue 2 at 366.055
+customer 373 arrived at 366.797
+customer 373 joined Q 2 at 366.797
+customer 373 joined service 2 at 366.797
+customer 371 left queue 0 at 367.228
+customer 374 arrived at 367.512
+customer 374 joined Q 0 at 367.512
+customer 374 joined service 0 at 367.512
+customer 375 arrived at 367.665
+customer 375 joined Q 0 at 367.665
+customer 376 arrived at 367.783
+customer 376 joined Q 1 at 367.783
+customer 377 arrived at 368.071
+customer 377 joined Q 2 at 368.071
+customer 374 left queue 0 at 368.199
+customer 375 joined service 0 at 368.199
+customer 375 left queue 0 at 368.732
+customer 376 joined Q 0 at 368.732
+customer 376 joined service 0 at 368.732
+customer 378 arrived at 369.865
+customer 378 joined Q 0 at 369.865
+customer 379 arrived at 369.996
+customer 379 joined Q 1 at 369.996
+customer 373 left queue 2 at 370.015
+customer 377 joined service 2 at 370.015
+customer 376 left queue 0 at 370.025
+customer 378 joined service 0 at 370.025
+customer 378 left queue 0 at 370.614
+customer 379 joined Q 0 at 370.614
+customer 379 joined service 0 at 370.614
+customer 380 arrived at 370.75
+customer 380 joined Q 0 at 370.75
+customer 354 left queue 3 at 371.309
+customer 380 joined Q 3 at 371.309
+customer 380 joined service 3 at 371.309
+customer 381 arrived at 371.483
+customer 381 joined Q 0 at 371.483
+customer 382 arrived at 372.104
+customer 382 joined Q 1 at 372.104
+customer 366 left queue 4 at 373.316
+customer 382 joined Q 4 at 373.316
+customer 382 joined service 4 at 373.316
+customer 379 left queue 0 at 374.008
+customer 381 joined service 0 at 374.008
+customer 380 left queue 3 at 374.608
+customer 372 left queue 1 at 374.926
+customer 383 arrived at 375.489
+customer 383 joined Q 1 at 375.489
+customer 383 joined service 1 at 375.489
+customer 382 left queue 4 at 376.108
+customer 384 arrived at 377.031
+customer 384 joined Q 3 at 377.031
+customer 384 joined service 3 at 377.031
+customer 385 arrived at 377.866
+customer 385 joined Q 4 at 377.866
+customer 385 joined service 4 at 377.866
+customer 386 arrived at 378.061
+customer 386 joined Q 0 at 378.061
+customer 377 left queue 2 at 378.089
+customer 386 joined Q 2 at 378.089
+customer 386 joined service 2 at 378.089
+customer 387 arrived at 378.214
+customer 387 joined Q 0 at 378.214
+customer 388 arrived at 378.344
+customer 388 joined Q 1 at 378.344
+customer 385 left queue 4 at 378.745
+customer 388 joined Q 4 at 378.745
+customer 388 joined service 4 at 378.745
+customer 386 left queue 2 at 378.778
+customer 387 joined Q 2 at 378.778
+customer 387 joined service 2 at 378.778
+customer 388 left queue 4 at 379.33
+customer 384 left queue 3 at 380.788
+customer 389 arrived at 381.358
+customer 389 joined Q 3 at 381.358
+customer 389 joined service 3 at 381.358
+customer 383 left queue 1 at 382.429
+customer 390 arrived at 382.96
+customer 390 joined Q 1 at 382.96
+customer 390 joined service 1 at 382.96
+customer 391 arrived at 383.261
+customer 391 joined Q 4 at 383.261
+customer 391 joined service 4 at 383.261
+customer 390 left queue 1 at 384.315
+customer 392 arrived at 385.856
+customer 392 joined Q 1 at 385.856
+customer 392 joined service 1 at 385.856
+customer 393 arrived at 387.098
+customer 393 joined Q 0 at 387.098
+customer 394 arrived at 387.898
+customer 394 joined Q 1 at 387.898
+customer 395 arrived at 388.019
+customer 395 joined Q 2 at 388.019
+customer 396 arrived at 388.413
+customer 396 joined Q 3 at 388.413
+customer 389 left queue 3 at 388.564
+customer 396 joined service 3 at 388.564
+customer 381 left queue 0 at 389.24
+customer 393 joined service 0 at 389.24
+customer 393 left queue 0 at 389.784
+customer 394 joined Q 0 at 389.784
+customer 394 joined service 0 at 389.784
+customer 397 arrived at 390.877
+customer 397 joined Q 0 at 390.877
+customer 398 arrived at 390.948
+customer 398 joined Q 1 at 390.948
+customer 392 left queue 1 at 391.444
+customer 398 joined service 1 at 391.444
+customer 394 left queue 0 at 391.558
+customer 397 joined service 0 at 391.558
+customer 397 left queue 0 at 391.878
+customer 395 joined Q 0 at 391.878
+customer 395 joined service 0 at 391.878
+customer 396 left queue 3 at 392.162
+customer 387 left queue 2 at 392.341
+customer 399 arrived at 393.324
+customer 399 joined Q 2 at 393.324
+customer 399 joined service 2 at 393.324
+customer 400 arrived at 393.451
+customer 400 joined Q 3 at 393.451
+customer 400 joined service 3 at 393.451
+customer 399 left queue 2 at 393.897
+customer 401 arrived at 393.993
+customer 401 joined Q 2 at 393.993
+customer 401 joined service 2 at 393.993
+customer 402 arrived at 394.599
+customer 402 joined Q 0 at 394.599
+customer 403 arrived at 394.847
+customer 403 joined Q 1 at 394.847
+customer 391 left queue 4 at 394.941
+customer 403 joined Q 4 at 394.941
+customer 403 joined service 4 at 394.941
+customer 400 left queue 3 at 395.886
+customer 402 joined Q 3 at 395.886
+customer 402 joined service 3 at 395.886
+customer 404 arrived at 395.967
+customer 404 joined Q 0 at 395.967
+customer 403 left queue 4 at 396.056
+customer 404 joined Q 4 at 396.056
+customer 404 joined service 4 at 396.056
+customer 401 left queue 2 at 396.723
+customer 405 arrived at 397.301
+customer 405 joined Q 2 at 397.301
+customer 405 joined service 2 at 397.301
+customer 406 arrived at 398.038
+customer 406 joined Q 0 at 398.038
+customer 407 arrived at 400.392
+customer 407 joined Q 1 at 400.392
+customer 405 left queue 2 at 400.617
+customer 407 joined Q 2 at 400.617
+customer 407 joined service 2 at 400.617
+customer 402 left queue 3 at 400.929
+customer 406 joined Q 3 at 400.929
+customer 406 joined service 3 at 400.929
+customer 408 arrived at 400.949
+customer 408 joined Q 0 at 400.949
+customer 409 arrived at 401.88
+customer 409 joined Q 1 at 401.88
+customer 404 left queue 4 at 402.058
+customer 409 joined Q 4 at 402.058
+customer 409 joined service 4 at 402.058
+customer 410 arrived at 402.128
+customer 410 joined Q 1 at 402.128
+customer 411 arrived at 402.219
+customer 411 joined Q 2 at 402.219
+customer 398 left queue 1 at 402.534
+customer 410 joined service 1 at 402.534
+customer 395 left queue 0 at 402.569
+customer 408 joined service 0 at 402.569
+customer 412 arrived at 402.641
+customer 412 joined Q 0 at 402.641
+customer 408 left queue 0 at 402.981
+customer 412 joined service 0 at 402.981
+customer 413 arrived at 403.189
+customer 413 joined Q 0 at 403.189
+customer 406 left queue 3 at 403.436
+customer 411 joined Q 3 at 403.436
+customer 411 joined service 3 at 403.436
+customer 410 left queue 1 at 403.652
+customer 413 joined Q 1 at 403.652
+customer 413 joined service 1 at 403.652
+customer 414 arrived at 404.541
+customer 414 joined Q 0 at 404.541
+customer 415 arrived at 404.705
+customer 415 joined Q 1 at 404.705
+customer 416 arrived at 404.766
+customer 416 joined Q 2 at 404.766
+customer 412 left queue 0 at 404.878
+customer 414 joined service 0 at 404.878
+customer 414 left queue 0 at 405.617
+customer 415 joined Q 0 at 405.617
+customer 415 joined service 0 at 405.617
+customer 415 left queue 0 at 405.892
+customer 416 joined Q 0 at 405.892
+customer 416 joined service 0 at 405.892
+customer 411 left queue 3 at 405.903
+customer 417 arrived at 406.024
+customer 417 joined Q 3 at 406.024
+customer 417 joined service 3 at 406.024
+customer 409 left queue 4 at 406.244
+customer 418 arrived at 407.813
+customer 418 joined Q 4 at 407.813
+customer 418 joined service 4 at 407.813
+customer 413 left queue 1 at 409.734
+customer 419 arrived at 410.784
+customer 419 joined Q 1 at 410.784
+customer 419 joined service 1 at 410.784
+customer 407 left queue 2 at 411.211
+customer 416 left queue 0 at 411.551
+customer 420 arrived at 411.766
+customer 420 joined Q 0 at 411.766
+customer 420 joined service 0 at 411.766
+customer 421 arrived at 413.963
+customer 421 joined Q 2 at 413.963
+customer 421 joined service 2 at 413.963
+customer 422 arrived at 413.992
+customer 422 joined Q 0 at 413.992
+customer 417 left queue 3 at 414.073
+customer 422 joined Q 3 at 414.073
+customer 422 joined service 3 at 414.073
+customer 421 left queue 2 at 414.092
+customer 423 arrived at 415.039
+customer 423 joined Q 2 at 415.039
+customer 423 joined service 2 at 415.039
+customer 419 left queue 1 at 415.205
+customer 424 arrived at 415.99
+customer 424 joined Q 1 at 415.99
+customer 424 joined service 1 at 415.99
+customer 425 arrived at 416.075
+customer 425 joined Q 0 at 416.075
+customer 426 arrived at 416.289
+customer 426 joined Q 1 at 416.289
+customer 424 left queue 1 at 416.372
+customer 426 joined service 1 at 416.372
+customer 427 arrived at 416.844
+customer 427 joined Q 1 at 416.844
+customer 426 left queue 1 at 417.335
+customer 427 joined service 1 at 417.335
+customer 422 left queue 3 at 418.787
+customer 425 joined Q 3 at 418.787
+customer 425 joined service 3 at 418.787
+customer 423 left queue 2 at 419.319
+customer 427 left queue 1 at 419.831
+customer 428 arrived at 420.062
+customer 428 joined Q 1 at 420.062
+customer 428 joined service 1 at 420.062
+customer 418 left queue 4 at 421.184
+customer 420 left queue 0 at 421.652
+customer 429 arrived at 421.957
+customer 429 joined Q 0 at 421.957
+customer 429 joined service 0 at 421.957
+customer 430 arrived at 421.968
+customer 430 joined Q 2 at 421.968
+customer 430 joined service 2 at 421.968
+customer 431 arrived at 421.997
+customer 431 joined Q 4 at 421.997
+customer 431 joined service 4 at 421.997
+customer 429 left queue 0 at 422.007
+customer 430 left queue 2 at 422.098
+customer 432 arrived at 422.219
+customer 432 joined Q 0 at 422.219
+customer 432 joined service 0 at 422.219
+customer 433 arrived at 422.282
+customer 433 joined Q 2 at 422.282
+customer 433 joined service 2 at 422.282
+customer 432 left queue 0 at 422.5
+customer 431 left queue 4 at 422.998
+customer 434 arrived at 424.462
+customer 434 joined Q 0 at 424.462
+customer 434 joined service 0 at 424.462
+customer 435 arrived at 425.275
+customer 435 joined Q 4 at 425.275
+customer 435 joined service 4 at 425.275
+customer 436 arrived at 425.939
+customer 436 joined Q 0 at 425.939
+customer 437 arrived at 426.492
+customer 437 joined Q 1 at 426.492
+customer 438 arrived at 427.302
+customer 438 joined Q 2 at 427.302
+customer 434 left queue 0 at 428.117
+customer 436 joined service 0 at 428.117
+customer 435 left queue 4 at 428.265
+customer 438 joined Q 4 at 428.265
+customer 438 joined service 4 at 428.265
+customer 428 left queue 1 at 428.591
+customer 437 joined service 1 at 428.591
+customer 439 arrived at 428.752
+customer 439 joined Q 0 at 428.752
+customer 436 left queue 0 at 430.605
+customer 439 joined service 0 at 430.605
+customer 440 arrived at 430.658
+customer 440 joined Q 0 at 430.658
+customer 441 arrived at 431.803
+customer 441 joined Q 1 at 431.803
+customer 442 arrived at 431.881
+customer 442 joined Q 2 at 431.881
+customer 438 left queue 4 at 431.912
+customer 442 joined Q 4 at 431.912
+customer 442 joined service 4 at 431.912
+customer 433 left queue 2 at 432.094
+customer 441 joined Q 2 at 432.094
+customer 441 joined service 2 at 432.094
+customer 441 left queue 2 at 432.445
+customer 440 joined Q 2 at 432.445
+customer 440 joined service 2 at 432.445
+customer 425 left queue 3 at 433.266
+customer 437 left queue 1 at 435.114
+customer 442 left queue 4 at 437.069
+customer 443 arrived at 438.836
+customer 443 joined Q 1 at 438.836
+customer 443 joined service 1 at 438.836
+customer 439 left queue 0 at 439.18
+customer 444 arrived at 441.602
+customer 444 joined Q 0 at 441.602
+customer 444 joined service 0 at 441.602
+customer 445 arrived at 443.644
+customer 445 joined Q 3 at 443.644
+customer 445 joined service 3 at 443.644
+customer 446 arrived at 445.814
+customer 446 joined Q 4 at 445.814
+customer 446 joined service 4 at 445.814
+customer 447 arrived at 447.186
+customer 447 joined Q 0 at 447.186
+customer 448 arrived at 448.023
+customer 448 joined Q 1 at 448.023
+customer 449 arrived at 448.083
+customer 449 joined Q 2 at 448.083
+customer 450 arrived at 448.824
+customer 450 joined Q 3 at 448.824
+customer 451 arrived at 450.387
+customer 451 joined Q 4 at 450.387
+customer 452 arrived at 450.534
+customer 452 joined Q 0 at 450.534
+customer 453 arrived at 450.629
+customer 453 joined Q 1 at 450.629
+customer 444 left queue 0 at 450.79
+customer 447 joined service 0 at 450.79
+customer 443 left queue 1 at 451.283
+customer 448 joined service 1 at 451.283
+customer 448 left queue 1 at 451.552
+customer 453 joined service 1 at 451.552
+customer 446 left queue 4 at 451.987
+customer 451 joined service 4 at 451.987
+customer 454 arrived at 452.645
+customer 454 joined Q 1 at 452.645
+customer 455 arrived at 453.001
+customer 455 joined Q 4 at 453.001
+customer 445 left queue 3 at 453.412
+customer 450 joined service 3 at 453.412
+customer 450 left queue 3 at 454.071
+customer 449 joined Q 3 at 454.071
+customer 449 joined service 3 at 454.071
+customer 449 left queue 3 at 454.501
+customer 455 joined Q 3 at 454.501
+customer 455 joined service 3 at 454.501
+customer 447 left queue 0 at 454.556
+customer 452 joined service 0 at 454.556
+customer 453 left queue 1 at 454.887
+customer 454 joined service 1 at 454.887
+customer 452 left queue 0 at 456.159
+customer 456 arrived at 456.28
+customer 456 joined Q 0 at 456.28
+customer 456 joined service 0 at 456.28
+customer 457 arrived at 456.91
+customer 457 joined Q 0 at 456.91
+customer 458 arrived at 457.851
+customer 458 joined Q 1 at 457.851
+customer 459 arrived at 458.421
+customer 459 joined Q 2 at 458.421
+customer 451 left queue 4 at 459.022
+customer 459 joined Q 4 at 459.022
+customer 459 joined service 4 at 459.022
+customer 456 left queue 0 at 459.114
+customer 457 joined service 0 at 459.114
+customer 460 arrived at 460.142
+customer 460 joined Q 0 at 460.142
+customer 461 arrived at 460.992
+customer 461 joined Q 2 at 460.992
+customer 462 arrived at 461.423
+customer 462 joined Q 3 at 461.423
+customer 457 left queue 0 at 461.68
+customer 460 joined service 0 at 461.68
+customer 459 left queue 4 at 463.26
+customer 462 joined Q 4 at 463.26
+customer 462 joined service 4 at 463.26
+customer 455 left queue 3 at 463.57
+customer 461 joined Q 3 at 463.57
+customer 461 joined service 3 at 463.57
+customer 440 left queue 2 at 463.74
+customer 458 joined Q 2 at 463.74
+customer 458 joined service 2 at 463.74
+customer 463 arrived at 464.162
+customer 463 joined Q 0 at 464.162
+customer 464 arrived at 464.343
+customer 464 joined Q 1 at 464.343
+customer 465 arrived at 464.372
+customer 465 joined Q 2 at 464.372
+customer 466 arrived at 464.611
+customer 466 joined Q 3 at 464.611
+customer 467 arrived at 464.829
+customer 467 joined Q 4 at 464.829
+customer 468 arrived at 465.316
+customer 468 joined Q 0 at 465.316
+customer 461 left queue 3 at 465.509
+customer 466 joined service 3 at 465.509
+customer 468 joined Q 3 at 465.509
+customer 466 left queue 3 at 466.324
+customer 468 joined service 3 at 466.324
+customer 468 left queue 3 at 466.453
+customer 465 joined Q 3 at 466.453
+customer 465 joined service 3 at 466.453
+customer 462 left queue 4 at 467.083
+customer 467 joined service 4 at 467.083
+customer 465 left queue 3 at 467.528
+customer 464 joined Q 3 at 467.528
+customer 464 joined service 3 at 467.528
+customer 467 left queue 4 at 468.067
+customer 463 joined Q 4 at 468.067
+customer 463 joined service 4 at 468.067
+customer 460 left queue 0 at 469.425
+customer 454 left queue 1 at 469.642
+customer 464 left queue 3 at 469.716
+customer 469 arrived at 470.545
+customer 469 joined Q 0 at 470.545
+customer 469 joined service 0 at 470.545
+customer 470 arrived at 470.582
+customer 470 joined Q 1 at 470.582
+customer 470 joined service 1 at 470.582
+customer 469 left queue 0 at 470.71
+customer 471 arrived at 470.766
+customer 471 joined Q 0 at 470.766
+customer 471 joined service 0 at 470.766
+customer 472 arrived at 470.955
+customer 472 joined Q 3 at 470.955
+customer 472 joined service 3 at 470.955
+customer 473 arrived at 470.974
+customer 473 joined Q 0 at 470.974
+customer 472 left queue 3 at 471.042
+customer 473 joined Q 3 at 471.042
+customer 473 joined service 3 at 471.042
+customer 474 arrived at 471.051
+customer 474 joined Q 0 at 471.051
+customer 475 arrived at 471.18
+customer 475 joined Q 1 at 471.18
+customer 476 arrived at 471.31
+customer 476 joined Q 2 at 471.31
+customer 473 left queue 3 at 471.387
+customer 476 joined Q 3 at 471.387
+customer 476 joined service 3 at 471.387
+customer 470 left queue 1 at 471.411
+customer 475 joined service 1 at 471.411
+customer 471 left queue 0 at 471.615
+customer 474 joined service 0 at 471.615
+customer 476 left queue 3 at 471.969
+customer 475 left queue 1 at 471.994
+customer 477 arrived at 473.213
+customer 477 joined Q 1 at 473.213
+customer 477 joined service 1 at 473.213
+customer 478 arrived at 473.364
+customer 478 joined Q 3 at 473.364
+customer 478 joined service 3 at 473.364
+customer 479 arrived at 473.533
+customer 479 joined Q 0 at 473.533
+customer 477 left queue 1 at 473.894
+customer 479 joined Q 1 at 473.894
+customer 479 joined service 1 at 473.894
+customer 478 left queue 3 at 474.126
+customer 458 left queue 2 at 476.067
+customer 480 arrived at 477.391
+customer 480 joined Q 2 at 477.391
+customer 480 joined service 2 at 477.391
+customer 481 arrived at 477.71
+customer 481 joined Q 3 at 477.71
+customer 481 joined service 3 at 477.71
+customer 482 arrived at 477.783
+customer 482 joined Q 0 at 477.783
+customer 481 left queue 3 at 478.039
+customer 482 joined Q 3 at 478.039
+customer 482 joined service 3 at 478.039
+customer 480 left queue 2 at 478.825
+customer 483 arrived at 478.833
+customer 483 joined Q 2 at 478.833
+customer 483 joined service 2 at 478.833
+customer 484 arrived at 479.861
+customer 484 joined Q 0 at 479.861
+customer 474 left queue 0 at 480.18
+customer 484 joined service 0 at 480.18
+customer 484 left queue 0 at 481.828
+customer 482 left queue 3 at 482.763
+customer 483 left queue 2 at 483.458
+customer 479 left queue 1 at 491.253
+customer 463 left queue 4 at 491.6

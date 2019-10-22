@@ -1,0 +1,10 @@
+Multi-teller bank with jockeying 
+_____________________________________________________________________________________
+Total tellers:				2 to 8
+Mean inter-arrival time:		1 minutes
+Mean service time:			4.5 minutes
+Duration:				8 hours
+
+
+#tellers	Avg q len	Avg delay	Left boundary	Right boundary
+_____________________________________________________________________________________
